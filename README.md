@@ -15,6 +15,7 @@ Explain the 4 function in code:
     
 2) templateMatchingEqual
     -Here the main idea is that slide the object pixel by pixel in main image then compare two image are equal or not in grayscale.
+    -...
     
 3) templateMatchingMean
     - Here the main idea is that slide the object pixel by pixel in main image and take the differences between two image and take the mean of matrix.
