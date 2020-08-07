@@ -5,7 +5,7 @@ I used 2 different programming language.
   - Main language ı use is Python. I am not good at c++ language as well as in python. (You gonna understand when look at your c++ code but i can learn easily)
   -I create 4 different algorithms. 3 of them about just crop image, other one about crop and crop_rotate image. 
   -Also i added comment to many lines for description.
-  
+  -And i couldnt handle with rotated image you give.I chose different image then its works in featureMatchingSirf algorithm.
 
 Explain the 4 function in code:
 
